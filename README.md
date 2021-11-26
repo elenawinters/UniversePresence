@@ -1,4 +1,4 @@
-# LEGO Universe Rich Presence
+# UniversePresence for LEGO Universe
 
 This mod is incomplete. I have abandoned it for the time being, due to various reasons.
 

@@ -1,0 +1,80 @@
+04:45:23 [INFO] Starting UniversePresence...
+04:45:23 [INFO] Building presence
+04:45:23 [INFO] We built the presence
+04:46:03 [INFO] Transfer to World received.
+04:46:03 [INFO] packet: 377787841
+04:46:03 [INFO] length: 43
+04:46:03 [INFO] times received: 1
+04:46:03 [INFO] Transfer to World processed.
+04:46:04 [INFO] Load Static Zone received.
+04:46:04 [INFO] packet: 805034529
+04:46:04 [INFO] length: 37
+04:46:04 [INFO] times received: 2
+04:46:04 [INFO] Load Static Zone  processed.
+04:47:09 [INFO] Transfer to World received.
+04:47:09 [INFO] packet: 750837705
+04:47:09 [INFO] length: 43
+04:47:09 [INFO] times received: 2
+04:47:09 [INFO] Transfer to World processed.
+04:47:10 [INFO] Load Static Zone received.
+04:47:10 [INFO] packet: 855913953
+04:47:10 [INFO] length: 37
+04:47:10 [INFO] times received: 3
+04:47:10 [INFO] Load Static Zone  processed.
+04:48:28 [INFO] Transfer to World received.
+04:48:28 [INFO] packet: 848747409
+04:48:28 [INFO] length: 43
+04:48:28 [INFO] times received: 3
+04:48:28 [INFO] Transfer to World processed.
+04:48:29 [INFO] Load Static Zone received.
+04:48:29 [INFO] packet: 915925849
+04:48:29 [INFO] length: 37
+04:48:29 [INFO] times received: 4
+04:48:29 [INFO] Load Static Zone  processed.
+04:49:10 [INFO] Transfer to World received.
+04:49:10 [INFO] packet: 377788121
+04:49:10 [INFO] length: 43
+04:49:10 [INFO] times received: 4
+04:49:10 [INFO] Transfer to World processed.
+04:49:11 [INFO] Load Static Zone received.
+04:49:11 [INFO] packet: 855927681
+04:49:11 [INFO] length: 37
+04:49:11 [INFO] times received: 5
+04:49:11 [INFO] Load Static Zone  processed.
+04:50:18 [INFO] Transfer to World received.
+04:50:18 [INFO] packet: 823324113
+04:50:18 [INFO] length: 43
+04:50:18 [INFO] times received: 5
+04:50:18 [INFO] Transfer to World processed.
+04:50:19 [INFO] Load Static Zone received.
+04:50:19 [INFO] packet: 919445409
+04:50:19 [INFO] length: 37
+04:50:19 [INFO] times received: 6
+04:50:19 [INFO] Load Static Zone  processed.
+
+
+
+older
+04:14:20 [INFO] Starting UniversePresence...
+04:14:20 [INFO] Building presence
+04:14:20 [INFO] We built the presence
+04:14:56 [INFO] Transfer to World received.
+04:14:56 [INFO] packet: 610655689
+04:14:56 [INFO] packet_length: 43
+04:14:56 [INFO] param_3: 1
+04:14:56 [INFO] Transfer to World processed.
+04:16:17 [INFO] Transfer to World received.
+04:16:17 [INFO] packet: 891923513
+04:16:17 [INFO] packet_length: 43
+04:16:17 [INFO] param_3: 2
+04:16:17 [INFO] Transfer to World processed.
+04:16:55 [INFO] Transfer to World received.
+04:16:55 [INFO] packet: 882159881
+04:16:55 [INFO] packet_length: 43
+04:16:55 [INFO] param_3: 3
+04:16:55 [INFO] Transfer to World processed.
+04:19:44 [INFO] Transfer to World received.
+04:19:44 [INFO] packet: 177839441
+04:19:44 [INFO] packet_length: 43
+04:19:44 [INFO] param_3: 4
+04:19:44 [INFO] Transfer to World processed.

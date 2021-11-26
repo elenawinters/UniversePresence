@@ -2,12 +2,12 @@
 mod discord;
 mod patch;
 mod lurpc;
-mod zone;
+// mod zone;
 
 #[macro_use] extern crate log;
 #[macro_use] extern crate lazy_static;
 extern crate simplelog;
-extern crate roxmltree; // i need xml stuff
+extern crate lu_packets;
 
 // use rustcord::Rustcord;
 use simplelog::*;
@@ -39,7 +39,7 @@ pub extern "system" fn DllMain(
 
 fn init() -> BOOL {
 	let _ = WriteLogger::init(LevelFilter::Info, Config::default(), File::create("lurpc.log").unwrap());
-	info!("Starting LURPC...");
+	info!("Starting UniversePresence...");
 	unsafe { BASE = GetModuleHandleA(std::ptr::null()) as usize; }
 	run_discord_rpc();
 	patch_client();
