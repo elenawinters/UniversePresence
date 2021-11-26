@@ -1,8 +1,6 @@
 # UniversePresence for LEGO Universe
 
-This mod is incomplete. I have abandoned it for the time being, due to various reasons.
-
-This mod provides Discord Rich Presence functionality for the LEGO Universe game client.
+This mod is a WIP, and is planned to add Discord rich presence functionality to LEGO Universe
 
 ## Requirements
 
